@@ -16,7 +16,7 @@ Flask Example
 
 
 
-A short description goes here
+Simple example containerising Python Flask app.
 
 
 * Free software: BSD - see LICENSE file in top-level package directory
@@ -26,7 +26,6 @@ A short description goes here
 Features
 --------
 
-* TODO
 
 Credits
 -------
